@@ -1,6 +1,6 @@
 # ⚡NeonWarfare⚡
 
-![Version](https://img.shields.io/badge/Client-V12.0--ELITE-00ffcc?style=for-the-badge)
+![Version](https://img.shields.io/badge/Client-V12.0-00ffcc?style=for-the-badge)
 ![Launcher](https://img.shields.io/badge/Launcher---Ready-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 NeonLauncher V4 (All-in-One)
+## 🚀 NeonLauncher (All-in-One)
 
 Najlakši način da uđete u borbu. Launcher radi sve za vas:
 * 📂 **Manual Control:** Vi birate folder gde želite da instalirate igru.
@@ -51,4 +51,4 @@ Pošto je igra pravljena u Python-u i spakovana u `.exe`, pojedini antivirusi je
 
 ---
 
-**Developer:** *NeonWarfare Team* **Server Version:** *V15.5 Command Node*
+**Developer:** *Toqor* **Server Version:** *V12.0 Command Node*
