@@ -1,7 +1,7 @@
 # ⚡NeonWarfare⚡
 
-![Version](https://img.shields.io/badge/Client-V15.5--ELITE-00ffcc?style=for-the-badge)
-![Launcher](https://img.shields.io/badge/Launcher-V4--Ready-orange?style=for-the-badge)
+![Version](https://img.shields.io/badge/Client-V12.0--ELITE-00ffcc?style=for-the-badge)
+![Launcher](https://img.shields.io/badge/Launcher---Ready-orange?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)
 
 **NeonWarfare** je brzi multiplayer cyberpunk shooter. Zaboravite na komplikovane instalacije i kucanje komandi – sve ide preko našeg **NeonLaunchera**.
