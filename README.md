@@ -3,6 +3,7 @@
 ![Version](https://img.shields.io/badge/Current_Version-V12.0-00ffcc?style=for-the-badge)
 ![Developer](https://img.shields.io/badge/Developer-Toqor-orange?style=for-the-badge)
 ![Network](https://img.shields.io/badge/Network-Radmin_VPN_/_Hamachi-red?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge&logo=windows)
 
 **NeonWarfare** je brzi multiplayer cyberpunk shooter. Trenutno je u **V12.0 STABLE** fazi razvoja i optimizovan je za igranje u privatnim mrežama.
 
